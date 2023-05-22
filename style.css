@@ -3,13 +3,6 @@
     padding: 0pt;
     font-family: Century;
 }
-header{
-    background-image: url('sp.jpg');
-    height: 100vh;
-    background-size: cover;
-    background-position: center;
-    min-height: 100px;
-}
 ul{
     float: right;
     list-style-type: none;
